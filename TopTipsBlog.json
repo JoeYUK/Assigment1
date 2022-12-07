@@ -1,0 +1,24 @@
+{
+  "Blogs": [
+    {     
+      "id": 1,
+          "heading": " Think carefully before getting a pet and learn about their special requirements",      "Post": "What pet would suit you? Making the wrong choice could mean that you and your pet both end up unhappy so it’s important to think about their needs and how they match up with yours. If you’re at work all day then is it really a good decision to get a dog? Would you be happy to sit and groom a long-haired cat every day?,.",      "icon": "Dog-icon.png",     "Publisher": "Joe Young"    },{      "id": 2,      "heading": " Ensure your pet is sociable and well trained",      "Post": "Early socialisation and habituation are very important to ensure that pets go on to be confident and happy. Young animals have a ‘sensitive period’ up to around 16 weeks old during which they need to experience key things. Beyond this sensitive period, new things they encounter might make them scared or aggressive.,.",      "icon": "Dog-icon.png",     "Publisher": "Joe Young"
+      },
+      {      "id": 3,      "heading": " Provide a nutritious and well balanced diet",      "Post": "Your pet can’t decide for themselves what to eat so they rely on you to make sure they get a nutritious and correct diet.,.",      "icon": "Cat-icon.png",     "Publisher": "Joe Young"
+      },
+      {      "id": 4,      "heading": " Provide suitable housing and bedding",      "Post": "Whether you have a dog or a rabbit, a gecko or a goldfish, they all have their own environment needs. Some of these, such as those for reptiles, can be very specific and your pet may become seriously ill if their needs aren’t met. If you do want to get an exotic pet, make sure you do your research and speak to an expert so your new pet gets everything they need.,.",      "icon": "Turtle-icon.png",     "Publisher": "Joe Young"
+      },
+      {      "id": 5,      "heading": " Clean up after your pet and worm them regularly",      "Post": "Parasites like lungworm can make your pet very unwell so we always advise regular worming, as well as regular flea treatment. Remember, getting rid of them is a lot more difficult than preventing them!,.",      "icon": "Cat-icon.png",     "Publisher": "Joe Young"
+      },
+      {      "id": 6,      "heading": " Protect against disease",      "Post": "Vaccination is a very simple and highly effective way of preventing your pet from contracting some very serious and sometimes deadly diseases. In fact, some of these diseases have no cure, so vaccination can be the only means of protecting your pet. Vaccination could be the most important thing you do for your pets.,.",      "icon": "Fish-icon.png",     "Publisher": "Joe Young"
+      },
+      {      "id": 7,      "heading": " Prevent unwanted litters and neuter your pet when appropriate",      "Post": "Neutering your pet can have significant health and behavioural benefits, such as eliminating the risk of a pyometra (a life-threatening uterine infection) in female dogs and lessening the likelihood of cats straying and getting lost.,.",      "icon": "Cat-icon.png",     "Publisher": "Joe Young"
+      },
+      {      "id": 8,      "heading": " Groom your pet regularly",      "Post": "Whilst some pets, such as long haired breeds, will require more grooming than others, all pets require regular grooming to keep their coats in good condition. You’ll probably find that as pets age, they’ll be less agile and will require more of a hand from you in their grooming regime.,.",      "icon": "Dog-icon.png",     "Publisher": "Joe Young"
+      },
+      {      "id": 9,      "heading": " Control your pet and ensure they are properly identified",      "Post": "Microchipping, microchipping, microchipping! We can’t stress enough how important that tiny little chip could be if your pet gets lost. It’s the best possible way to give you a chance of being reunited with them. Pets can travel a surprisingly long way from home, so just alerting your local area may prove fruitless in getting your pet back – just look at the recent example of the tabby cat who went missing from North Wales and turned up 5 weeks later in Yorkshire!,.",      "icon": "Cat-icon.png",     "Publisher": "Joe Young"
+      },
+      {      "id": 10,      "heading": " Take out pet insurance for dogs, cats, rabbits and horses to cover against unexpected veterinary fees and third party liability",      "Post": "It’s impossible to predict the future. That’s where pet insurance comes in. It ensures that your pet has access to all the options they need, whether it’s to treat an emergency like a car accident or to provide funds for regular treatment of a disease like diabetes. Pet insurance can give you the peace of mind that, whatever the problem, you, your pet and your vet can approach the future with optimism.,.",      "icon": "Rabbit-icon.png",     "Publisher": "Joe Young"
+      }
+    ]
+  }
